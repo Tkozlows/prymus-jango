@@ -1,3 +1,3 @@
 # prymus-jango
 
-Tekst próbny
+jest gitesss
