@@ -1,3 +1,3 @@
 # prymus-jango
 
-jest gitesss
+Działa
