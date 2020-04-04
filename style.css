@@ -1,3 +1,35 @@
-.important{
-    color: blue;
+#menu {
+    background-color: green;
+    float: left;
+    height: 800px;
+    width: 350px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+#container {
+
+width: auto;
+height: auto;
+
+}
+
+#content{
+
+    background-color: grey;
+    float: left;
+    margin-top: 30px;
+    margin-left: 60px;
+    width: 1200px;
+}
+
+#image{
+
+    width: 50%;
+    height: 50%;
+}
+
+h1{
+
+    color: darkred
 }
